@@ -7,7 +7,7 @@ class App extends Component {
   render() {
     return (
       <div className="container-fluid">
-        <p>Hello World4!</p>
+        <p>Hello World!</p>
       </div>
     );
   }
