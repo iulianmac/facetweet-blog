@@ -75,3 +75,4 @@ typings/
 # Atom tags
 .tags
 .tags_swap
+.DS_Store
